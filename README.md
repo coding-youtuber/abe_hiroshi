@@ -1,5 +1,11 @@
 # 【検証】阿部寛のホームページ100個開くのに何秒かかるのか
 
+![capture](https://user-images.githubusercontent.com/58985013/153735752-31a89e5c-3c45-4bfd-b03a-a04cbc3e1379.jpg)
+
+
+# YouTube検証動画
+https://youtu.be/u2_CthE8PSI
+
 
 # 環境
 
